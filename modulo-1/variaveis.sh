@@ -8,3 +8,6 @@ num2=200
 TOTAL=$((num1+num2))
 
 echo "$TOTAL"
+
+SAIDA_CAT="$(cat /etc/passwd | grep mauro)"
+echo "$SAIDA_CAT"
