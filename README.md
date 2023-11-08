@@ -7,6 +7,10 @@
 - testado
 
 ## Estrutura
+- versão 1.0
+- versão 1.1
+- versão 1.2
+- versão 1.3
 ## Comentários
 - Extrairá usuários do /etc/passwd, havendo a possibilidade de colocar em
 - maíúscula e em ordem alfabética
