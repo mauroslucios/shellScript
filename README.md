@@ -10,7 +10,7 @@
 ## Comentários
 - Extrairá usuários do /etc/passwd, havendo a possibilidade de colocar em
 - maíúscula e em ordem alfabética
-- Exemplos:
+## Exemplos:
 -   $ ./listaUsuarios.sh -h
 -   Neste exemplo a saída do script mostrará o menu de opções
 -   $ ./listaUsuarios.sh -v
